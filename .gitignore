@@ -1,0 +1,15 @@
+# Competition data: Kaggle rules don't allow sharing it outside the competition.
+# Download it from Kaggle into Data/ (see Data/README.md).
+Data/*.csv
+data/*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
